@@ -1,5 +1,6 @@
 # DAmeta
 we propose DAmeta, a novel drug combination synergy prediction method that uniquely integrates domain adaptive networks with meta-learning to enhance personalized predictions across varied cancer types. To effectively address the challenges posed by diverse cancer types, DAmeta leverages the heterogeneity of driver genes to learn specific parameters for each cell line task through a meta-learning network. Furthermore, it aligns the distributional discrepancies between cell line and patient data using a domain adaptive network, thereby enhancing the accuracy of predictions across different biological conditions.
+
 # Requirements
 Python == 3.10
 
